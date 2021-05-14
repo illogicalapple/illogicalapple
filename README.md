@@ -1,3 +1,3 @@
 # Hello.
-My name is **illogicalapple** and I am an **apple** :apple:.  
-I like **coding** :computer:, **reading** :open_book:, and **being a cannibal** :astonished:.
+My name is [**illogicalapple**](https://illogicalapple.github.io) and I am an **apple** :apple:.  
+I like to make [stuff](https://illogicalapple.github.io/my-stuff) :wastebasket:.
